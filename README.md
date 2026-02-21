@@ -61,7 +61,9 @@ I enjoy building **end-to-end web applications**, working with **backend APIs**,
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&width=600&lines=Building+NLP+Report+Generator;Developing+Full+Stack+CRUD+App;Exploring+AI+and+Machine+Learning" />
 </p>
+
 ---
+
 ## 📌 Projects
 
 - 🔹 **Full Stack CRUD Application**  
@@ -86,20 +88,14 @@ I enjoy building **end-to-end web applications**, working with **backend APIs**,
 ![GitHub Streak](https://streak-stats.demolab.com?user=Usmanagani-Attar&theme=dark)
 ---
 
-## 📊 GitHub Stats
 
-![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Usmanagani-Attar&show_icons=true&theme=dark)
----
-## 🧠 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Usmanagani-Attar&layout=compact&theme=dark)
-
----
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/your-username  
-- LinkedIn: https://linkedin.com/in/your-profile  
+- GitHub: https://github.com/Usmanagani-Attar
+- LinkedIn: https://www.linkedin.com/in/usmanagani-attar-a173662a1/
+- Email: usda9087@gmail.com
 
 ---
 
