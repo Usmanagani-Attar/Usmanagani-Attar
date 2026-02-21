@@ -14,3 +14,93 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Hi, I'm Usman
+
+🎓 Engineering Student | 💻 Full Stack Developer | 🤖 AI / NLP Enthusiast  
+
+I enjoy building **end-to-end web applications**, working with **backend APIs**, and applying **AI/NLP** techniques to solve real-world problems.
+
+---
+
+## 🚀 About Me
+
+- 🎓 Engineering student with a strong interest in software development  
+- 💻 Experience in Full Stack development (MERN & Spring Boot)  
+- 🤖 Interested in AI, NLP, and automation projects  
+- 📚 Always learning and improving my skills  
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+- React.js
+- HTML, CSS, JavaScript
+
+### ⚙️ Backend
+- Spring Boot
+- Node.js
+- Express.js
+- REST APIs
+
+### 🗄️ Database
+- MySQL
+- MongoDB
+
+### 🔧 Tools & Platforms
+- Git & GitHub
+- Postman
+- VS Code
+- IntelliJ IDEA
+
+---
+
+## 🚧 Currently Working On
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&width=600&lines=Building+NLP+Report+Generator;Developing+Full+Stack+CRUD+App;Exploring+AI+and+Machine+Learning" />
+</p>
+---
+## 📌 Projects
+
+- 🔹 **Full Stack CRUD Application**  
+  React + Spring Boot + MySQL
+
+- 🔹 **NLP Based Departmental Report Generator**  
+  MERN stack app for summary, sentiment analysis, and keyword extraction
+
+*(More projects coming soon 🚀)*
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Spring Boot  
+- NLP & Machine Learning  
+- System Design Basics  
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Usmanagani-Attar&theme=dark)
+---
+
+## 📊 GitHub Stats
+
+![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Usmanagani-Attar&show_icons=true&theme=dark)
+---
+## 🧠 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Usmanagani-Attar&layout=compact&theme=dark)
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/your-username  
+- LinkedIn: https://linkedin.com/in/your-profile  
+
+---
+
+⭐ Feel free to check out my repositories and give a star if you like them!
