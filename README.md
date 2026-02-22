@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 Hi, I'm Usman
+# 👋 Hi, I'm Usman
 
 🎓 Engineering Student | 💻 Full Stack Developer | 🤖 AI / NLP Enthusiast  
 
